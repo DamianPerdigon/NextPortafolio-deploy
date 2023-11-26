@@ -1,3 +1,5 @@
 module.exports = {
-    target: 'serverless'
+    experimental: {
+        target: 'serverless', 
+      }
 }
