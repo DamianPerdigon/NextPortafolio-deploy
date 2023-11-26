@@ -1,5 +1,6 @@
 module.exports = {
-    experimental: {
-        target: 'serverless', 
-      }
-}
+  
+  future: {
+    webpack5: true, 
+  },
+};
